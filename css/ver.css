@@ -1,825 +1,893 @@
-.ventana0{
+.ventana0 {
     background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:130%;
-    display:none;
-    margin: auto;
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 130%;
+    display: none;
 }
 
-.ventana1{
+.ventana1 {
     background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:130%;
-    display:none;
-
-}
- .ventana2{
-    background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:130%;
-    display:none;
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 130%;
+    display: none;
 }
 
-.ventana3{
+.ventana2 {
     background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:130%;
-    display:none;
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 130%;
+    display: none;
 }
 
-.ventana4{
+.ventana3 {
     background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:120%;
-    display:none;
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 130%;
+    display: none;
 }
 
-.ventana5{
+.ventana4 {
     background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:120%;
-    display:none;
-}
-.ventana6{
-    background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:120%;
-    display:none;
-
-}
-.ventana7{
-    background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:120%;
-    display:none;
-
-}
-.ventana8{
-    background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:120%;
-    display:none;
-
-}
-.ventana9{
-    background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:120%;
-    display:none;
-
-}
-.ventana10{
-    background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:120%;
-    display:none;
-}
-.ventana11{
-    background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:570%;
-    display:none;
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 120%;
+    display: none;
 }
 
-.ventana12{
+.ventana5 {
     background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:570%;
-    display:none;
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 120%;
+    display: none;
 }
 
-.ventana13{
+.ventana6 {
     background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:570%;
-    display:none;
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 120%;
+    display: none;
 }
 
-.ventana14{
+.ventana7 {
     background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:570%;
-    display:none;
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 120%;
+    display: none;
 }
-.ventana15{
+
+.ventana8 {
     background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:570%;
-    display:none;
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 120%;
+    display: none;
 }
-.ventana16{
+
+.ventana9 {
     background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:570%;
-    display:none;
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 120%;
+    display: none;
 }
-.ventana17{
+
+.ventana10 {
     background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:570%;
-    display:none;
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 120%;
+    display: none;
 }
-.ventana18{
+
+.ventana11 {
     background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:570%;
-    display:none;
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 570%;
+    display: none;
 }
-.ventana19{
+
+.ventana12 {
     background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:570%;
-    display:none;
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 570%;
+    display: none;
 }
-.ventana20{
+
+.ventana13 {
     background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:570%;
-    display:none;
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 570%;
+    display: none;
 }
-.ventana21{
+
+.ventana14 {
     background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:570%;
-    display:none;
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 570%;
+    display: none;
 }
+
+.ventana15 {
+    background: rgb(202, 202, 245);
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 570%;
+    display: none;
+}
+
+.ventana16 {
+    background: rgb(202, 202, 245);
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 570%;
+    display: none;
+}
+
+.ventana17 {
+    background: rgb(202, 202, 245);
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 570%;
+    display: none;
+}
+
+.ventana18 {
+    background: rgb(202, 202, 245);
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 570%;
+    display: none;
+}
+
+.ventana19 {
+    background: rgb(202, 202, 245);
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 570%;
+    display: none;
+}
+
+.ventana20 {
+    background: rgb(202, 202, 245);
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 570%;
+    display: none;
+}
+
+.ventana21 {
+    background: rgb(202, 202, 245);
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 570%;
+    display: none;
+}
+
 
 /*----------------------------------------------------------------------*/
 
-.vent0{
+.vent0 {
     background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:235%;
-    display:none;
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 235%;
+    display: none;
 }
-.vent1{
-    background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:235%;
-    display:none;
-}
-.vent2{
-    background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:235%;
-    display:none;
-}
-.vent3{
-    background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:235%;
-    display:none;
-}
-.vent4{
-    background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:235%;
-    display:none;
-}
-.vent5{
-    background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:235%;
-    display:none;
-}
-.vent6{
-    background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:235%;
-    display:none;
-}
-.vent7{
-    background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:235%;
-    display:none;
-}
-.vent8{
-    background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:235%;
-    display:none;
-}
-.vent9{
-    background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:235%;
-    top:110%;
-    display:none;
-}
-.vent10{
-    background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:235%;
-    display:none;
-}
-/*--------------------------------------------------------------------------*/
 
-.ven0{
+.vent1 {
     background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:470%;
-    display:none;
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 235%;
+    display: none;
 }
-.ven1{
+
+.vent2 {
     background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:470%;
-    display:none;
-}.ven2{
-    background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:470%;
-    display:none;
-}.ven3{
-    background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:470%;
-    display:none;
-}.ven4{
-    background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:470%;
-    display:none;
-}.ven5{
-    background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:470%;
-    display:none;
-}.ven6{
-    background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:470%;
-    display:none;
-}.ven7{
-    background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:470%;
-    display:none;
-}.ven8{
-    background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:470%;
-    display:none;
-}.ven9{
-    background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:470%;
-    display:none;
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 235%;
+    display: none;
 }
-.ven10{
+
+.vent3 {
     background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:470%;
-    display:none;
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 235%;
+    display: none;
 }
+
+.vent4 {
+    background: rgb(202, 202, 245);
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 235%;
+    display: none;
+}
+
+.vent5 {
+    background: rgb(202, 202, 245);
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 235%;
+    display: none;
+}
+
+.vent6 {
+    background: rgb(202, 202, 245);
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 235%;
+    display: none;
+}
+
+.vent7 {
+    background: rgb(202, 202, 245);
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 235%;
+    display: none;
+}
+
+.vent8 {
+    background: rgb(202, 202, 245);
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 235%;
+    display: none;
+}
+
+.vent9 {
+    background: rgb(202, 202, 245);
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 235%;
+    top: 110%;
+    display: none;
+}
+
+.vent10 {
+    background: rgb(202, 202, 245);
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 235%;
+    display: none;
+}
+
 
 /*--------------------------------------------------------------------------*/
 
-.ventVi0{
+.ven0 {
     background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:350%;
-    display:none;
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 470%;
+    display: none;
 }
-.ventVi1{
+
+.ven1 {
     background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:350%;
-    display:none;
-}.ventVi2{
-    background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:350%;
-    display:none;
-}.ventVi3{
-    background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:350%;
-    display:none;
-}.ventVi4{
-    background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:350%;
-    display:none;
-}.ventVin5{
-    background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:350%;
-    display:none;
-}.ventVi6{
-    background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:350%;
-    display:none;
-}.ventVi7{
-    background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:350%;
-    display:none;
-}.ventVi8{
-    background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:350%;
-    display:none;
-}.ventVi9{
-    background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:350%;
-    display:none;
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 470%;
+    display: none;
 }
-.ventVi10{
+
+.ven2 {
     background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:350%;
-    display:none;
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 470%;
+    display: none;
 }
+
+.ven3 {
+    background: rgb(202, 202, 245);
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 470%;
+    display: none;
+}
+
+.ven4 {
+    background: rgb(202, 202, 245);
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 470%;
+    display: none;
+}
+
+.ven5 {
+    background: rgb(202, 202, 245);
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 470%;
+    display: none;
+}
+
+.ven6 {
+    background: rgb(202, 202, 245);
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 470%;
+    display: none;
+}
+
+.ven7 {
+    background: rgb(202, 202, 245);
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 470%;
+    display: none;
+}
+
+.ven8 {
+    background: rgb(202, 202, 245);
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 470%;
+    display: none;
+}
+
+.ven9 {
+    background: rgb(202, 202, 245);
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 470%;
+    display: none;
+}
+
+.ven10 {
+    background: rgb(202, 202, 245);
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 470%;
+    display: none;
+}
+
 
 /*--------------------------------------------------------------------------*/
 
-.ve0{
+.ventVi0 {
     background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:25%;
-    display:none;
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 350%;
+    display: none;
 }
-.ve1{
+
+.ventVi1 {
     background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:25%;
-    display:none;
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 350%;
+    display: none;
 }
-.ve2{
+
+.ventVi2 {
     background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:25%;
-    display:none;
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 350%;
+    display: none;
 }
-.ve3{
+
+.ventVi3 {
     background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:25%;
-    display:none;
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 350%;
+    display: none;
 }
-.ve4{
+
+.ventVi4 {
     background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:25%;
-    display:none;
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 350%;
+    display: none;
 }
-.ve5{
+
+.ventVin5 {
     background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:25%;
-    display:none;
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 350%;
+    display: none;
 }
-.ve6{
+
+.ventVi6 {
     background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:25%;
-    display:none;
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 350%;
+    display: none;
 }
-.ve7{
+
+.ventVi7 {
     background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:25%;
-    display:none;
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 350%;
+    display: none;
 }
-.ve8{
+
+.ventVi8 {
     background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:25%;
-    display:none;
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 350%;
+    display: none;
 }
-.ve9{
+
+.ventVi9 {
     background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:25%;
-    display:none;
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 350%;
+    display: none;
 }
-.ve10{
+
+.ventVi10 {
     background: rgb(202, 202, 245);
-    width:30%;
-    text-align:center;
-    padding:33px;
-    min-height:250px;
-    border-radius:22px;
-    position:absolute;
-    left:34%;
-    top:25%;
-    display:none;
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 350%;
+    display: none;
 }
+
+
+/*--------------------------------------------------------------------------*/
+
+.ve0 {
+    background: rgb(202, 202, 245);
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 25%;
+    display: none;
+}
+
+.ve1 {
+    background: rgb(202, 202, 245);
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 25%;
+    display: none;
+}
+
+.ve2 {
+    background: rgb(202, 202, 245);
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 25%;
+    display: none;
+}
+
+.ve3 {
+    background: rgb(202, 202, 245);
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 25%;
+    display: none;
+}
+
+.ve4 {
+    background: rgb(202, 202, 245);
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 25%;
+    display: none;
+}
+
+.ve5 {
+    background: rgb(202, 202, 245);
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 25%;
+    display: none;
+}
+
+.ve6 {
+    background: rgb(202, 202, 245);
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 25%;
+    display: none;
+}
+
+.ve7 {
+    background: rgb(202, 202, 245);
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 25%;
+    display: none;
+}
+
+.ve8 {
+    background: rgb(202, 202, 245);
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 25%;
+    display: none;
+}
+
+.ve9 {
+    background: rgb(202, 202, 245);
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 25%;
+    display: none;
+}
+
+.ve10 {
+    background: rgb(202, 202, 245);
+    width: 30%;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 34%;
+    top: 25%;
+    display: none;
+}
+
 
 /*--------------------------------------------------------------------------------*/
 
-
-#close{
+#close {
     width: 25px;
-    right:10px;
+    right: 10px;
     top: 10;
     float: right;
     position: relative;
     top: -240px;
-    margin:auto;
+    margin: auto;
     margin-top: 0px;
 }
 
-
-#cerrar{
-    position:absolute;
-    right:3px;
-    top:1px;
+#cerrar {
+    position: absolute;
+    right: 3px;
+    top: 1px;
 }
- 
- p{
-     color: black
- }
+
+p {
+    color: black
+}
