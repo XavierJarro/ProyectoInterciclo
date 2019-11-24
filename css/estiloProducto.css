@@ -1,0 +1,73 @@
+/*.container{
+    margin-top: -335px;
+}*/
+
+#categoria{
+    width: 350px;
+    height: 30px;
+}
+
+.imag {
+    margin-left: 1360px;
+    margin-top: 4px;
+}
+
+.imag2{
+margin-left: 1587px;
+margin-top: -533px;
+margin-right: -184px;
+}
+
+#examinar {
+    margin-left: 1300px;
+    margin-top: 30px;
+}
+
+.figure{
+    margin-top: 200px;
+}
+
+label{
+    padding: 3px;
+}
+
+.tres a {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 900;
+    background-color: #EAF3FB;
+    text-decoration: none;
+    color: #000000;
+    border-top-width: 3px;
+    border-right-width: 3px;
+    border-bottom-width: 3px;
+    border-left-width: 3px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-color: #999999;
+    border-right-color: #E9E9E9;
+    border-bottom-color: #E9E9E9;
+    border-left-color: #999999;	
+}
+.tres a:hover {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 900;
+    background-color: #00CCFF;
+    text-decoration: none;
+    color: #FFFFFF;
+    border-top-width: 3px;
+    border-right-width: 3px;
+    border-bottom-width: 3px;
+    border-left-width: 3px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-color: #E9E9E9;
+    border-right-color: #666666;
+    border-bottom-color: #666666;
+    border-left-color: #E9E9E9;
+}

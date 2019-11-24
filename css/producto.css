@@ -1,0 +1,73 @@
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.cuerpo{
+	position: relative;
+	top: 20px;
+	width: 90%;
+	height: auto;
+	margin: auto;
+}
+h1{
+	color: green;
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 300%;
+	text-align: center;
+}
+.cuerpo .imagen{
+	padding: 10px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.cuerpo .imagen li {
+	margin-right: 10px;
+	margin-bottom: 10px;
+	list-style: none;;
+
+}
+.cuerpo .imagen li .cuerpo_imagen{
+	position: relative;
+	width: 250px;
+	height: 190px;
+	background:tomato;
+	border-radius: 3px;
+
+}
+.cuerpo .imagen li .cuerpo_imagen img{
+	position: relative;
+	width: 250px;
+	height: 150px;
+	border-top-right-radius: 3px;
+	border-top-left-radius: 3px;
+}
+
+.cuerpo .imagen li .cuerpo_imagen .informacion {
+	position:absolute;
+	bottom: 0;
+	width: 100%;
+	height: 40px;
+	display: flex;
+	align-items: center;
+}
+
+.cuerpo .imagen li .cuerpo_imagen .informacion .nombre{
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 13px;
+	margin-left: 8px;
+}
+.cuerpo .imagen li .cuerpo_imagen .informacion .ver_informacion{
+	position: relative;
+	display: block;
+	padding: 6px 12px;
+	left: 50px;
+	height:20px;
+	width: auto;
+	text-decoration: none;
+	color: black;
+	font-family: 'Times New Roman', Times, serif;
+	border-radius: 90px;
+	border: 2px solid gray;
+}

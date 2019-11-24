@@ -39,7 +39,7 @@
     '$correo', MD5('$contrasena'), '$fechaValida', 'N', null, null, '$roluser', null)";
 
     if ($conn->query($sql) === TRUE) {
-        echo "<p>Te as registrado correctamemte!!!</p>";
+        echo "<p>Su registro fue exitoso</p>";
     } else {
         if ($conn->errno == 1062) {
             echo "<p class='error'>La persona con la cedula $cedula ya esta registrada en el sistema </p>";

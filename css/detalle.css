@@ -1,0 +1,13 @@
+.ventana3{
+    background:white;
+    width:30%;
+    text-align:center;
+    padding:33px;
+    min-height:250px;
+    border-radius:22px;
+    position:absolute;
+    left:34%;
+    top:25%;
+    display:none;
+
+}

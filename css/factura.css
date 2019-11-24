@@ -1,0 +1,27 @@
+body {
+    padding: 20% 30% 10% 2 0%;
+    background-color: #eaf1eb;
+}
+
+input,
+select {
+    padding: 2px;
+    width: 200px;
+    max-width: 100%;
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+body,
+input {
+    font-family: sans-serif;
+}
+
+label {
+    padding: 2px;
+    width: 204px;
+    max-width: 100%;
+    font-size: 1.2em;
+    margin-bottom: 10px;
+    display: inline-block;
+}
