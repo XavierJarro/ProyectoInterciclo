@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Frutas</title>
+       <link rel="stylesheet" href="css/productos.css">
+       <script type="text/javascript" src="js/frutas.js"></script>
+       <link rel="stylesheet" type="text/css" href="css/ver.css"id="vent">
+
+       
+</head>
+<body>
+       <h1>Frutas </h1>
+
+	<div class="cuerpo">
+       <ul class="imagen">
+              <li><div class="cuerpo_imagen"><img src="imagenes/img1.jpg" alt="" class="image">
+              <div class="informacion"><p class="nombre">Cereza</p><a href="javascript:abrir()" class="ver_informacion">Ver mas</a></div></di></li>
+
+              <li><div class="cuerpo_imagen"><img src="imagenes/img2.jpg" alt="" class="image">
+              <div class="informacion"><p class="nombre">Albaricoque</p><a href="javascript:abrirAlb()" class="ver_informacion">Ver mas </a></div></di></li>
+
+              <li><div class="cuerpo_imagen"><img src="imagenes/img3.jpg" alt="" class="image">
+              <div class="informacion"><p class="nombre">Platano de Canarias</p><a href="javascript:abrirba()" class="ver_informacion">Ver mas </a></div></di></li>
+             
+              <li><div class="cuerpo_imagen"><img src="imagenes/img4.jpg" alt="" class="image">
+              <div class="informacion"><p class="nombre">Naranjas</p><a href="javascript:abrirna()" class="ver_informacion">Ver mas </a></div></di></li>
+             
+              <li><div class="cuerpo_imagen"><img src="imagenes/img5.jpg" alt="" class="image">
+              <div class="informacion"><p class="nombre">Sandia</p><a href="#" class="ver_informacion">Ver mas </a></div></di></li>
+             
+              <li><div class="cuerpo_imagen"><img src="imagenes/img6.jpg" alt="" class="image">
+              <div class="informacion"><p class="nombre">Melocoton Rojo</p><a href="#" class="ver_informacion">Ver mas </a></div></di></li>
+             
+              <li><div class="cuerpo_imagen"><img src="imagenes/img7.jpg" alt="" class="image">
+              <div class="informacion"><p class="nombre">Arándano azul</p><a href="#" class="ver_informacion">Ver mas </a></div></di></li>
+              
+              <li><div class="cuerpo_imagen"><img src="imagenes/img8.jpg" alt="" class="image">
+              <div class="informacion"><p class="nombre">Manzana</p><a href="#" class="ver_informacion">Ver mas </a></div></di></li>
+              
+              <li><div class="cuerpo_imagen"><img src="imagenes/img9.jpg" alt="" class="image">
+              <div class="informacion"><p class="nombre">Piña</p><a href="#" class="ver_informacion">Ver mas </a></div></di></li>
+              
+              <li><div class="cuerpo_imagen"><img src="imagenes/img10.jpg" alt="" class="image">
+              <div class="informacion"><p class="nombre">Uva</p><a href="#" class="ver_informacion">Ver mas </a></div></di></li>
+              
+              <li><div class="cuerpo_imagen"><img src="imagenes/img11.jpg" alt="" class="image">
+               <div class="informacion"><p class="nombre">Pera</p><a href="#" class="ver_informacion">Ver mas </a></div></di></li>
+
+       </ul>
+       </div>
+ <!---------------------------------------------------------------------------------------------------------------------------->
+
+ <div class="ventana" id="frut">
+              <img src="imagenes/img1.jpg" width="150px" height="150px">
+             <p> Cereza</p><br>
+             <p> 1.50$</p> 
+             <input class="input" type="button" name="carrito" value="Añadir" >
+             
+              <button id="close" onclick="document.getElementById('frut').style.display='none'">X</button>
+       </div>
+
+ <script>
+function abrir(){
+       document.getElementById("frut").style.display="block";
+   }
+</script>      
+
+<!---------------------------------------------------------------------------------------------------------------------------->   
+<div class="ventana1" id="albaricoque">
+              <img src="imagenes/img2.jpg" width="150px" height="150px">
+             <p> Albaricoque</p><br>
+             <p> 0.50$</p> 
+             <input class="input" type="button" name="carrito" value="Añadir" >
+             
+              <button id="close" onclick="document.getElementById('albaricoque').style.display='none'">X</button>
+       </div>
+
+ <script>
+function abrirAlb(){
+       document.getElementById("albaricoque").style.display="block";
+   }
+</script>  
+<!---------------------------------------------------------------------------------------------------------------------------->
+
+<div class="ventana2" id="banana">
+              <img src="imagenes/img3.jpg" width="150px" height="150px">
+             <p> Banana</p><br>
+             <p> 1.00$</p> 
+             <input class="input" type="button" name="carrito" value="Añadir" >
+             
+              <button id="close" onclick="document.getElementById('banana').style.display='none'" >X</button>
+       </div>
+
+ <script>
+function abrirba(){
+       document.getElementById("banana").style.display="block";
+   }
+</script>      
+
+ <!---------------------------------------------------------------------------------------------------------------------------->
+
+<div class="ventana3" id="na">
+              <img src="imagenes/img4.jpg" width="150px" height="150px">
+             <p> Naranjas</p><br>
+             <p> 1.00$</p> 
+             <input class="input" type="button" name="carrito" value="Añadir" >
+             
+              <button id="close" onclick="document.getElementById('na').style.display='none'">X</button>
+       </div>
+
+ <script>
+function abrirna(){
+       document.getElementById("na").style.display="block";
+}
+</script>      
+
+</body>
+ </html
